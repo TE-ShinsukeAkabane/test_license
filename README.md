@@ -6,4 +6,4 @@
 
 aaa
 
-- [trademark_nontice](trademark_notice.md)
+[trademark_nontice](trademark_notice.md)
